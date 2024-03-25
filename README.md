@@ -11,3 +11,5 @@ My only interest is to learn and practice</p>
 
 <p>https://f13-personal-cv-carlosgiovanny.vercel.app/</p>
 
+ <img class="photo-bio" src="/Public/images/site-bio.png" alt="SiteBio">
+
